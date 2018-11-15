@@ -1,0 +1,12 @@
+{
+    "name": "dbugit/laravel-vuejs-webchat",
+    "description": "Webchat package for laravel using vue.js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adriano Pedro",
+            "email": "adrianopedro@gmail.com"
+        }
+    ],
+    "require": {}
+}
