@@ -1,0 +1,22 @@
+{
+  "name": "laravel-vuejs-webchat",
+  "version": "1.0.0",
+  "description": "Webchat package for laravel using vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbugit/laravel-vuejs-webchat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbugit/laravel-vuejs-webchat/issues"
+  },
+  "homepage": "https://github.com/dbugit/laravel-vuejs-webchat#readme",
+  "dependencies": {
+    "line-awesome": "github:icons8/line-awesome"
+  }
+}
